@@ -8,6 +8,7 @@ try {
 }
 catch(PDOException $e)
 {
+    print($e);
     throw new Exception();
     
 }

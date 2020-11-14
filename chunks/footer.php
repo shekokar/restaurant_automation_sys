@@ -4,8 +4,8 @@
             <div class="row">
               <div class="col l6 s12">
                 <h5 class="white-text">Contact US</h5>
-                <p class="grey-text text-lighten-4">123, Mishtir Bari Road, Shyamnagar, Kolkata</p>
-                <p class="grey-text text-lighten-4">Phone : +21-562-896-5378</p>
+                <p class="grey-text text-lighten-4">123, ABC Road, Gokuldhaam, Mumbai</p>
+                <p class="grey-text text-lighten-4">Phone : +00-123-456-7890</p>
               </div>
               <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Social Media Links</h5>

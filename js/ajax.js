@@ -45,7 +45,7 @@ $(function(){
 		} else {
 
 			$.ajax({
-	            url :'/RestroGirls/backends/register.php',
+	            url :'/restaurant_automation_sys/backends/register.php',
 	            type:'POST',
 	            data :{
 	            'name':name,
@@ -104,7 +104,7 @@ $(function(){
 		} else {
 
 			$.ajax({
-	            url :'/RestroGirls/backends/login.php',
+	            url :'/restaurant_automation_sys/backends/login.php',
 	            type:'POST',
 	            data :{
 	            'name':name,
