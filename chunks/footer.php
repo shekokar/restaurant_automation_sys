@@ -20,7 +20,6 @@
           </div>
           <div class="footer-copyright">
             <div class="container">
-            © 2019 Copyright @ RestroGirls
             <a class="grey-text text-lighten-4 right" href="#!">Made in India with <span><i class="tiny material-icons">favorite</i></span></a>
             </div>
           </div>
